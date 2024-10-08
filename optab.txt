@@ -1,0 +1,6 @@
+LDA 00
+STA 01
+LDX 02
+ADD 03
+END  *
+

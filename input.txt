@@ -1,0 +1,11 @@
+**    START   3000
+**    LDA     DATA1
+**    STA     RESULT
+**    LDX     COUNT
+**    ADD     TWO
+DATA1  WORD    5
+RESULT RESW    1
+COUNT  RESW    1
+TWO    WORD    2
+**    END
+

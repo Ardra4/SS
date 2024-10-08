@@ -1,0 +1,3 @@
+H 001 00300  ; Header record
+T 3000 000000  ; Text record
+E 3000  ; End record
